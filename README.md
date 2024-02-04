@@ -1,3 +1,5 @@
+![1331544](https://github.com/nasa013/CIS-Video-Editing-2024/assets/99669458/066d5c2c-4c1a-42fe-a556-da1e07de4a7f) 
+
 # CIS-Video-Editing-2024
 
 # 000 “Pre Course”
