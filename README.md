@@ -3,7 +3,7 @@
 
 # CIS-Video-Editing-2024
 
-# 000 “Pre Course”
+## 000 “Pre Course”
 
 1. **What is video editing** 
 - 
@@ -27,7 +27,7 @@
     
  ___
 
-# 001 “Basics”
+## 001 “Basics”
 
  **1. Learn Premiere Pro in 15 Minutes**
 
@@ -65,7 +65,7 @@
 
 ___
 
-# 010 “Middle Ground”
+## 010 “Middle Ground”
 
  **1. How to Use Premiere Pro Templates**
 
@@ -132,7 +132,7 @@ ___
 
 ___ 
 
-# 100 “Masters”
+## 100 “Masters”
 
  **1. Create GIFs**
 
@@ -185,7 +185,7 @@ ___
 
 ___
 
-# 000 “Sound Design”
+## 000 “Sound Design”
 
  **1. MUST KNOW Sound Design TRICKS (Premiere Pro)**
 
