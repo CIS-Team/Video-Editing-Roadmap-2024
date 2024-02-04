@@ -109,7 +109,7 @@ ___
     [https://youtu.be/K5BzWOGDf_M](https://youtu.be/0AMCKQEVExk)
     
 
- 7**. Color Correction**
+ **7. Color Correction**
 
 - 
     
